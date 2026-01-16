@@ -40,3 +40,19 @@ uuid
 wait
 sleep
 ```
+
+### Example simple code:
+
+
+```javascript
+const { c, cap, repeat, rndInt, rnd } = require('./js-plugins/essentialsjs/all');
+
+let numbers = [1, 2, 3, 4, 5, 6, "Sorte"]
+let randomnumbers = rnd(numbers)
+
+c.log("Hello World");
+console.log(cap("hello"));
+console.log(repeat("ha", 4, "\n"));
+console.log(rndInt(1, 10));
+c.log(randomnumbers)
+```
