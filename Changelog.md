@@ -4,7 +4,10 @@
 
 
 Compatible with: JPS 1.2.0 [ https://github.com/ksthedev/JPS---JavaScript-Plugin-System/blob/main/JPS%20v.1.2.0.rar ]
+
+
 JPS-CLI: 1.0.0 [ https://github.com/ksthedev/JPS---JavaScript-Plugin-System/blob/main/JPS%20CLI%20v1.0%20for%20v1.2.rar ]
+
 
 
 ```
